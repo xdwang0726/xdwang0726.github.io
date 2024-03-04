@@ -33,19 +33,21 @@ Xindi Wang, Robert E. Mercer, Frank Rudzicz. Proceedings of the 60th Annual Meet
 
 Xindi Wang, Robert E. Mercer, Frank Rudzicz. 
 In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 5473–5483, Marseille, France. European Language Resources Association.
----
 
+---
 ## 2020
 ### [Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP](https://aclanthology.org/2020.clinicalnlp-1.33/) 
 
 John Chen, Ian Berlot-Attwell, Xindi Wang, Safwan Hossain, Frank Rudzicz. 
 In Proceedings of the 3rd Clinical Natural Language Processing Workshop, pages 301–312, Online. Association for Computational Linguistics.
----
 
+---
 ## 2019
 ### [Incorporating Figure Captions and Descriptive Text in MeSH Term Indexing](https://aclanthology.org/W19-5018/)
 
 Xindi Wang, Robert E. Mercer. In Proceedings of the 18th BioNLP Workshop and Shared Task, pages 165–175, Florence, Italy. Association for Computational Linguistics.
 ### [End-to-end named entity recognition and relation extraction using pre-trained language models](https://arxiv.org/pdf/1912.13415.pdf) 
 
-John Giorgi, Xindi Wang, Nicola Sahar, Won Young Shin, Gary Bader, Bo Wang. arXiv preprint arXiv:1912.13415
+John Giorgi, Xindi Wang, Nicola Sahar, Won Young Shin, Gary Bader, Bo Wang. 
+arXiv preprint arXiv:1912.13415
+---
