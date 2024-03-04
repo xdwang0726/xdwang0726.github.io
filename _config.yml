@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xindi's Homepage"
 title_separator          : "-"
-name                     : &name "Xindi Wang"
+name                     : &name "Xindi Wang (王馨頔)"
 description              : &description "personal description"
 url                      : https://xdwang0726.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "xdwang0726/xdwang0726.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xindi.png"
+  avatar           : "xindi.jpg"
   name             : "Xindi Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at University of Western Ontario and Vector Institute for Artificial Intelligence"
