@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate"
   location         : "Toronto, ON, Canada"
-  employer         : "University of Western Ontario and Vector Institute for Artificial Intelligence"
+  employer         : "University of Western Ontario,\
+                      Vector Institute for Artificial Intelligence"
   uri              : # URL
   email            : "xwang842@uwo.ca"
 

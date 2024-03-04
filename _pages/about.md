@@ -11,7 +11,7 @@ I am a 4th year PhD student at the University of Western Ontario and Vector Inst
 
 ---
 
-# <img src="/images/icon--news.png">News
+# <img src="/images/icon--news.png" style="width:200px">News
 * <span style="color:green">02/2024</span> Our paper has been accepted by COLING 2024!
 * <span style="color:green">02/2024</span> Our preprint ["Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models"](https://arxiv.org/abs/2402.02244) is now available on arXiv. 
 
