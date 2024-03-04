@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching at the University of Western Ontario
+## University of Western Ontario
 * CS1027 Computer Science Fundamentals II
 * CS1032 Information Systems and Design 
 * CS2034 Data Analytics: Principles and Tools 
