@@ -24,10 +24,10 @@ author:
   avatar           : "xindi.png"
   name             : "Xindi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
-  location         : "Toronto, ON, Canada"
-  employer         : "University of Western Ontario,\
+  bio              : "PhD candidate at University of Western Ontario,\
                       Vector Institute for Artificial Intelligence"
+  location         : "Toronto, ON, Canada"
+  employer         : #""
   uri              : # URL
   email            : "xwang842@uwo.ca"
 
