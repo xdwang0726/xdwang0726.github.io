@@ -16,6 +16,7 @@ Xindi Wang, Mahsa Salmani, Parsa Omidi, Xiangyu Ren, Mehdi Rezagholizadeh, and A
 
 Penghui Zhao, Xindi Wang, Yi Zhang, Yang Li, Hongjun Wang, Yang Yang. 
 Electronics Letters, Volume 60, Issue 3: e13122
+
 ---
 
 ## 2023
@@ -23,6 +24,7 @@ Electronics Letters, Volume 60, Issue 3: e13122
 
 Xindi Wang, Yufei Wang, Can Xu, Xiubo Geng, Chongyang Tao, Bowen Zhang, Frank Rudzicz, Robert E. Mercer, Daxin Jiang. 
 Proceedings of the 26th European Conference on Artificial Intelligence - ECAI 2023 
+
 ---
 
 ## 2022
@@ -50,4 +52,5 @@ Xindi Wang, Robert E. Mercer. In Proceedings of the 18th BioNLP Workshop and Sha
 
 John Giorgi, Xindi Wang, Nicola Sahar, Won Young Shin, Gary Bader, Bo Wang. 
 arXiv preprint arXiv:1912.13415
+
 ---
