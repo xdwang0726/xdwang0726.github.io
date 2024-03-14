@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## 2024
+### Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation
+
+Xindi Wang, Robert E. Mercer, Frank Rudzicz. NAACL 2024
 ### Auxiliary Knowledge-Induced Learning for Automatic Multi-Label Medical Document Classification. 
 
 Xindi Wang, Robert E. Mercer, Frank Rudzicz. LREC-COLING 2024
