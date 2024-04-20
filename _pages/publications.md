@@ -14,7 +14,7 @@ Xindi Wang, Robert E. Mercer, Frank Rudzicz. NAACL 2024
 Xindi Wang, Robert E. Mercer, Frank Rudzicz. LREC-COLING 2024
 ### [Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models](https://arxiv.org/abs/2402.02244)
 
-Xindi Wang, Mahsa Salmani, Parsa Omidi, Xiangyu Ren, Mehdi Rezagholizadeh, and Armaghan Eshaghi.
+Xindi Wang, Mahsa Salmani, Parsa Omidi, Xiangyu Ren, Mehdi Rezagholizadeh, and Armaghan Eshaghi. IJCAI 2024
 ### [Diffusion-UDA: Diffusion-based unsupervised domain adaptation for submersible fault diagnosis](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.13122) 
 
 Penghui Zhao, Xindi Wang, Yi Zhang, Yang Li, Hongjun Wang, Yang Yang. 
