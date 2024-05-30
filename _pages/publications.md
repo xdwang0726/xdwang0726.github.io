@@ -8,10 +8,10 @@ author_profile: true
 ## 2024
 ### [Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation](https://arxiv.org/abs/2405.19093)
 
-Xindi Wang, Robert E. Mercer, Frank Rudzicz. NAACL 2024 (<span style="color:red">ORAL<\span>)
+Xindi Wang, Robert E. Mercer, Frank Rudzicz. NAACL 2024 (<span style="color:red">ORAL</span>)
 ### [Auxiliary Knowledge-Induced Learning for Automatic Multi-Label Medical Document Classification](https://aclanthology.org/2024.lrec-main.181) 
 
-Xindi Wang, Robert E. Mercer, Frank Rudzicz. LREC-COLING 2024 (<span style="color:red">ORAL<\span>)
+Xindi Wang, Robert E. Mercer, Frank Rudzicz. LREC-COLING 2024 (<span style="color:red">ORAL</span>)
 ### [Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models](https://arxiv.org/abs/2402.02244)
 
 Xindi Wang, Mahsa Salmani, Parsa Omidi, Xiangyu Ren, Mehdi Rezagholizadeh, and Armaghan Eshaghi. IJCAI 2024
