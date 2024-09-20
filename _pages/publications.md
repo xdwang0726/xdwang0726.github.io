@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## 2024
+
+### Graph-tree Fusion Model with Bidirectional Information Propagation for Long Document Classification
+
+Sudipta Singha Roy, Xindi Wang*, Robert Mercer, Frank Rudzicz. EMNLP Findings 2024
 ### [Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation](https://arxiv.org/abs/2405.19093)
 
 Xindi Wang, Robert E. Mercer, Frank Rudzicz. NAACL 2024 (<span style="color:red">ORAL</span>)
