@@ -12,7 +12,7 @@ main:
   #- title: "News"
   #  url: /news/
 
-  - title: "CV"
+  #- title: "CV"
     #url: /cv/
-    url: /files/cv.pdf
+  #  url: /files/cv.pdf
 
