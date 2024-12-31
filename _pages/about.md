@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in School of Artificial Intelligence at Shandong University. 
-Before joining Shandong University, I was a postdoc researcher at Department of Radiology at Weill Cornell Medicine working with Dr. Geroge Shih and Dr. Yifan Peng. I obtained my PhD degree at the University of Western Ontario and Vector Institute, advised by [Dr. Robert Mercer](https://www.csd.uwo.ca/people/faculty/bios/mercer.html) (University of Western Ontario) and [Dr. Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/) (University of Toronto, Dalhousie University, and Vector Institute). My research interests mostly lie in natural language processing (NLP) and natural language understanding (NLU) in scientific biomedical literature and clinical texts, especially utilizing external knowledge and graph theory to solve practical problems in the biomedical and healthcare domain. I obtained my master's degree at University of Western Ontario with Dr. Robert Mercer, and did my bachelor's degree at the University of British Columbia.  
+I am an assistant professor in School of Artificial Intelligence at Shandong University. Before joining Shandong University, I was a postdoc researcher at Department of Radiology at Weill Cornell Medicine working with Dr. Geroge Shih and Dr. Yifan Peng. I obtained my PhD degree at the University of Western Ontario and Vector Institute, advised by [Dr. Robert Mercer](https://www.csd.uwo.ca/people/faculty/bios/mercer.html) (University of Western Ontario) and [Dr. Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/) (University of Toronto, Dalhousie University, and Vector Institute). I obtained my master's degree at University of Western Ontario with Dr. Robert Mercer, and did my bachelor's degree at the University of British Columbia.
+
+My research interests mostly lie in natural language processing (NLP) and natural language understanding (NLU) in scientific biomedical literature and clinical texts, especially utilizing external knowledge and graph theory to solve practical problems in the biomedical and healthcare domain. 
 
 ---
 
