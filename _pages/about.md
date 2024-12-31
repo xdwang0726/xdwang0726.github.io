@@ -14,6 +14,7 @@ My research interests mostly lie in natural language processing (NLP) and natura
 ---
 
 # <img src="/images/icon--news.png" style="width:40px">News
+* <span style="color:green">11/2024</span> Our paper has been accepted by AMIA Informatics Summit 2025!
 * <span style="color:green">09/2024</span> Our paper has been accepted by EMNLP Findings 2024!
 * <span style="color:green">04/2024</span> Our paper has been accepted by IJCAI 2024!
 * <span style="color:green">03/2024</span> Our paper has been accepted by NAACL 2024 for an oral presentation!
