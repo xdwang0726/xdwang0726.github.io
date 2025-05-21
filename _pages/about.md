@@ -11,7 +11,7 @@ I am an assistant professor in School of Artificial Intelligence at Shandong Uni
 
 My research mostly focuses on natural language processing (NLP) and natural language understanding (NLU) in scientific biomedical literature and clinical texts, especially utilizing external knowledge and graph theory to solve practical problems in the biomedical and healthcare domain. 
 
-<span style="color:lightblue">Research Interest</span>
+<span style="color:blue">Research Interest</span>
 * Natural Language Processing
 * AI for Healthcare
 * Trustworthy AI
