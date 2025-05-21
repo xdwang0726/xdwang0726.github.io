@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+
+### [The Evolution of Radiology Image Annotation in the Era of Large Language Models](https://pubs.rsna.org/doi/abs/10.1148/ryai.240631)
+
+Adam E Flanders, Xindi Wang, Carol C Wu, Felipe C Kitamura, George Shih, John Mongan, Yifan Peng
+
+### [Generative Large Language Models Trained for Detecting Errors in Radiology Reports](https://pubs.rsna.org/doi/10.1148/radiol.242575)
+
+Cong Sun, Kurt Teichman, Yiliang Zhou, Brian Critelli, David Nauheim, Graham Keir, Xindi Wang, Judy Zhong, Adam E Flanders, George Shih, Yifan Peng
+---
 
 ## 2024
 
