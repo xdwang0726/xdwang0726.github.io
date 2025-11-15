@@ -6,6 +6,10 @@ author_profile: true
 ---
 ## 2025
 
+### [Trustworthy Medical Question Answering: An Evaluation-Centric Survey](https://aclanthology.org/2025.emnlp-main.1398)
+
+Yinuo Wang, Baiyang Wang, Robert Mercer, Frank Rudzicz, Sudipta Singha Roy, Pengjie Ren, Zhumin Chen, Xindi Wang*
+
 ### [The Evolution of Radiology Image Annotation in the Era of Large Language Models](https://pubs.rsna.org/doi/abs/10.1148/ryai.240631)
 
 Adam E Flanders, Xindi Wang, Carol C Wu, Felipe C Kitamura, George Shih, John Mongan, Yifan Peng. Radiology: Artificial Intelligence

@@ -24,6 +24,7 @@ My research mostly focuses on natural language processing (NLP) and natural lang
 ---
 
 # <img src="/images/icon--news.png" style="width:40px">News
+* <span style="color:green">08/2025</span> Our paper [Trustworthy Medical Question Answering: An Evaluation-Centric Survey](https://aclanthology.org/2025.emnlp-main.1398)has been accepted by EMNLP 2025!
 * <span style="color:green">04/2025</span> Our paper [The Evolution of Radiology Image Annotation in the Era of Large Language Models](https://pubs.rsna.org/doi/abs/10.1148/ryai.240631)has been accepted by Radiology: Artificial Intelligence (IF: 8.1 )!
 * <span style="color:green">03/2025</span> Our paper [Generative Large Language Models Trained for Detecting Errors in Radiology Reports](https://pubs.rsna.org/doi/10.1148/radiol.242575) has been accepted by Radiology (IF: 12.1)!
 * <span style="color:green">11/2024</span> Our paper has been accepted by AMIA Informatics Summit 2025!
