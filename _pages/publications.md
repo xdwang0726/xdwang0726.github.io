@@ -18,13 +18,13 @@ Adam E Flanders, Xindi Wang, Carol C Wu, Felipe C Kitamura, George Shih, John Mo
 
 Cong Sun, Kurt Teichman, Yiliang Zhou, Brian Critelli, David Nauheim, Graham Keir, Xindi Wang, Judy Zhong, Adam E Flanders, George Shih, Yifan Peng. Radiology
 
----
-
-## 2024
-
 ### [Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels](https://arxiv.org/pdf/2409.16563)
 
 Yishu Wei, Xindi Wang, Hanley Ong, Yiliang Zhou, Adam Flanders, George Shih, Yifan Peng. AMIA Informatics Summit 2025
+
+---
+
+## 2024
 
 ### [Graph-tree Fusion Model with Bidirectional Information Propagation for Long Document Classification](https://aclanthology.org/2024.findings-emnlp.257/)
 
