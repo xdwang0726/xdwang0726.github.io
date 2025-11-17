@@ -19,7 +19,7 @@ My research mostly focuses on natural language processing (NLP) and natural lang
 * Benchmarks and Evaluation
 
 <span style="color:purple"> I am actively looking for self-motivated students. If you are interested in working with me, please drop me an email. </span>
-<span style="color:purple"> 全年招收【硕士研究生】、【本科科研助理】，欢迎对自然语言处理感兴趣的同学通过邮件发送简历。 </span>
+<span style="color:purple"> 欢迎有意向攻读人工智能专业的硕士生、博士生联系我，请在邮件附上简历 (表现优秀且有意向读博者，可推荐到国内外知名高校，如康奈尔大学、伊利诺伊香槟分校、多伦多大学、英属哥伦比亚大学、中国人民大学、中国科学技术大学、复旦大学、武汉大学等读博！）；此外，课题组长期接收山东大学本科生进课题组进行科研训练，有兴趣的同学请邮件联系xindi.wang@sdu.edu.cn </span>
 
 ---
 
