@@ -14,7 +14,7 @@ My research mostly focuses on natural language processing (NLP) and natural lang
 <span style="color:blue">Research Interest</span>
 * Natural Language Processing
 * AI for Healthcare
-* Trustworthy AI
+* Trustworthy AI 
 * Knowledge Representation 
 * Benchmarks and Evaluation
 
